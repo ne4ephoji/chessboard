@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.ne4ephoji.chessboard">
+          package="com.ne4ephoji.chessboard_test_app">
 
     <application
             android:allowBackup="true"

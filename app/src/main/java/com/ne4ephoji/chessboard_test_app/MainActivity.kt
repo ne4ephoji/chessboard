@@ -1,4 +1,4 @@
-package com.ne4ephoji.chessboard
+package com.ne4ephoji.chessboard_test_app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

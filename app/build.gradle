@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion compile_sdk_version
     defaultConfig {
-        applicationId "com.ne4ephoji.chessboard"
+        applicationId "com.ne4ephoji.chessboard_test_app"
         minSdkVersion min_sdk_version
         targetSdkVersion target_sdk_version
         versionCode 1
