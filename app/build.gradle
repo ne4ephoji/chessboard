@@ -23,6 +23,7 @@ android {
 dependencies {
     // Project staff
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation project(':chessboard')
 
     // Core
     implementation 'com.google.android.material:material:1.0.0'
