@@ -18,7 +18,7 @@ buildscript {
         siteUrl = 'https://github.com/ne4ephoji/chessboard'
         gitUrl = 'https://github.com/ne4ephoji/chessboard.git'
 
-        libraryVersion = '0.0.3'
+        libraryVersion = '0.0.4'
 
         developerId = 'ne4ephoji'
         developerName = 'Anton Sheremet'

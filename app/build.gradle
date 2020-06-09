@@ -30,7 +30,7 @@ dependencies {
     implementation project(':chessboard')
 
     // Chess
-    implementation 'com.ne4ephoji:chess-rules:0.0.5'
+    implementation 'com.ne4ephoji:chess-rules:0.0.6'
 
     // Core
     implementation 'com.google.android.material:material:1.1.0'
